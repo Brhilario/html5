@@ -1,5 +1,31 @@
 /* folha de estilo */
 
-body{
-  background-color: #ff0000;
+/* smartphone portrait */
+
+
+/* smartphone landscape*/
+
+@media (min-width: 576px){
+
+  body {
+    background-color: #0ff;
+  }
 }
+
+
+
+/*tablet portrait */
+
+@media (min-width: 768px){
+
+  body {
+    background-color: #fff000;
+  }
+}
+
+
+/*tablet landscape */
+
+
+
+/* pc */ 
