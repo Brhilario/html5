@@ -19,7 +19,13 @@ body{
 }  
 .Container {
   margin: 0 auto;
-  background-color: #77ff00;
+  background-color: #dcdcdc;
+}
+/* topo do site */
+#topo {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
 }
 
 /* smartphone landscape*/
@@ -50,7 +56,7 @@ body{
 /* pc */ 
 @media (min-width: 1200px){
   body{
-    background-color: #f00;
+    background-color: #3d3a3a;
   }
   .Container{
     max-width: 1140px;
